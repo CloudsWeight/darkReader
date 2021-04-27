@@ -2,7 +2,7 @@
 
 Description:  An RSS windowed reader to read while you work, simple interface, and more feeds can be added as needed.  Current url is darkreading.com.
 
-Author: Nick Sepe
+Author: Blenno
 License: The Unlicense
 
 
